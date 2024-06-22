@@ -34,6 +34,6 @@ Player B (Right Paddle):
 Move Up: Up arrow key AND   
 Move Down: Down arrow key  
   
-Credits  
+#Credits  
 Developer: King Richard  
 Acknowledgments: The Hans Guy  
