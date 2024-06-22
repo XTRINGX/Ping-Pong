@@ -17,7 +17,7 @@ Turtle module (included in standard Python library)
 #How to Play
 
 #Clone the Repository: Clone this repository to your local machine:
-git clone https://github.com/XTRINGX/ping-pong-game.git
+git clone https://github.com/XTRINGX/Ping-Pong.git
 
 #Navigate to Directory: Go to the project directory:
 cd ping-pong-game
