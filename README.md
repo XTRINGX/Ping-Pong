@@ -27,11 +27,11 @@ python ping_pong_game.py
 
 #Controls:
 Player A (Left Paddle):
-Move Up: W key
+Move Up: W key AND 
 Move Down: S key
 
 Player B (Right Paddle):
-Move Up: Up arrow key
+Move Up: Up arrow key AND 
 Move Down: Down arrow key
 
 Credits
